@@ -1,0 +1,4 @@
+modulo8\main\controller\UserController.class
+modulo8\main\entity\User.class
+modulo8\main\Modulo8Application.class
+modulo8\main\repository\UserRepository.class
